@@ -17,5 +17,7 @@ A list of websites which support Widevine L3
 
 ## Informations
 Websites are listed in alphabetically order.
+
 Made a PR to add websites.
+
 Need idea to improve the structure and hierarchy of this repository/list
