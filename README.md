@@ -4,16 +4,16 @@ A list of websites which support Widevine L3
 ## List of known websites
 | **Website** | Max Resolution | Georestriction |
 | --- | --- | --- |
-| **6play** | 720p | FR |
-| **ARTE** | 1080p | Unknown |
-| **CanalPlus** | 540p | Unknown |
-| **FTV** | 1080p | FR |
-| **Molotov** | 1080p (depends of channels) | Unknown |
-| **RMCBFMPLAY** | 720p | FR |
-| **RTBF** | 1080p | BE |
-| **RTLplay** | 720p | BE |
-| **RTS** | 1080p | BE, CH |
-| **TF1+** | 1080p | FR |
+| **[6play](https://www.6play.fr/)** | 720p | FR |
+| **[ARTE](https://www.arte.tv/)** | 1080p | Unknown |
+| **[myCANAL](https://www.canalplus.com/)** | 540p | Unknown |
+| **[France TV](https://www.france.tv/)** | 1080p | FR |
+| **[Molotov.tv](app.molotov.tv/)** | 1080p (depends of channels) | Unknown |
+| **[RMC BFM PLAY](https://www.rmcbfmplay.com/)** | 720p | FR |
+| **[RTBF](https://auvio.rtbf.be/)** | 1080p | BE |
+| **[RTLplay](https://www.rtlplay.be/)** | 720p | BE |
+| **[Play RTS](https://www.rts.ch/play/tv)** | 1080p | BE, CH |
+| **[TF1+](https://www.tf1.fr/)** | 1080p | FR |
 
 ## Informations
 Websites are listed in alphabetically order.
